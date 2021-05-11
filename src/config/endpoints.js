@@ -1,4 +1,4 @@
 const endpoints = {
-    api: "https://jsonplaceholder.typicode.com/"
-}
+  api: "https://jsonplaceholder.typicode.com/",
+};
 export default endpoints;
